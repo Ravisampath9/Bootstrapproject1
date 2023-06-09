@@ -1,0 +1,121 @@
+.mkk {
+
+    margin-left: 300px;
+}
+
+
+
+.bL {
+    background: url("bnr.png") no-repeat;
+    height: 500px; 
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}
+
+
+.hh h1{
+    margin-top: 361px;
+    margin-left: 500px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background: black;
+opacity: 0.5;
+
+width: 60%;
+}
+
+
+.uu h4{
+    margin-top: 361px;
+    margin-left: 500px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background: black;
+opacity: 0.5;
+
+width: 60%;
+}
+
+
+.bgim
+{background: grey;
+    height: 300px;
+
+
+}
+
+
+.bi-meta
+{
+font-size: 40px;
+margin-left: 20px;
+color:red;
+}
+
+
+.cc
+{background-color: brown;}
+
+
+
+
+
+.bi-instagram
+{
+    font-size:40px ;
+    margin-left: 20px;
+    color:blue;
+}
+
+
+.bi-twitter
+{
+
+    font-size: 40px;
+    margin-left: 20px;
+    color:brown;
+}
+
+.bi-linkedin
+{
+    font-size: 40px;
+    margin-left: 20px;
+    color:chartreuse;
+}
+
+
+.just
+{
+    text-align:center;
+
+}
+
+.gal{
+    background: gray;
+    border-radius: 20px;
+}
+
+
+.gal img{
+    width: 100%;
+    border-radius: 20px;
+    
+}
+
+.bb {
+    background: url("bb.png") no-repeat;
+    height: 400px; 
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}
+
+
+.or{
+    background-color: orangered;
+}
+
+.lsn{
+list-style: none;
+}
